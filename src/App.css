@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(90deg, #b60ad8, #f01b1b);
+}
+
+.quote-box {
+    width: 500px;
+    margin: 13% auto;
+    background-color: #fff;
+    border-radius: 10px;
+}
